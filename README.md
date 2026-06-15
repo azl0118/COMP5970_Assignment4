@@ -8,6 +8,22 @@ The game features a full gameplay loop, obstacles, sound effects, and background
 
 ---
 
+## How to Play
+
+1. Open the project in Unity
+2. Press Play
+3. Drive and collect packages
+4. Deliver them before time runs out
+5. Press R to restart after game over
+
+---
+
+## Objective
+
+Deliver as many packages as possible before time runs out.
+
+---
+
 ## Features
 
 - Top-down car driving with acceleration and turning
@@ -77,8 +93,6 @@ plays background music.
 - PlayerTriggers.cs
 pickup up when player has pickup and delivered packages.
 
-
-### 
 ---
 
 ## Audio
@@ -89,17 +103,11 @@ pickup up when player has pickup and delivered packages.
 - Music restarts when the game is restarted
 
 ---
+## Contributors
+This game uses contents from Kennys Assets
+- https://kenney.nl/assets/racing-pack
+- https://kenney.nl/assets/game-icons
+- https://kenney.nl/assets/category:Audio
 
-## How to Play
-
-1. Open the project in Unity
-2. Press Play
-3. Drive and collect packages
-4. Deliver them before time runs out
-5. Press R to restart after game over
-
----
-
-## Objective
-
-Deliver as many packages as possible before time runs out.
+This game is also a project assignment for COMP5970, Dr. Abhishek Jariwala, which
+uses the https://github.com/ajariwala1/CourierRush-Skeleton repository and videos from Module 4/
