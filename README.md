@@ -110,5 +110,4 @@ This game uses contents from Kennys Assets
 - https://kenney.nl/assets/category:Audio
 
 This game is also a project assignment for COMP5970, Game Development, Dr. Abhishek Jariwala, 
-
-which uses the https://github.com/ajariwala1/CourierRush-Skeleton repository and videos from Module 4/
+which uses the https://github.com/ajariwala1/CourierRush-Skeleton repository and videos from Module 4
