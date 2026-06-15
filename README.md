@@ -77,17 +77,17 @@ Deliver as many packages as possible before time runs out.
 
 ## Scripts
 
-- CarController.cs
+- CarController.cs:
 Handles vehicle movement, acceleration, and rotation.
-- CameraFollow.cs
+- CameraFollow.cs:
 Follows player through the game.
-- WorldSpawner.cs
+- WorldSpawner.cs:
 Generates and removes road chunks dynamically for an infinite map.
-- TargetSpawner.cs
+- TargetSpawner.cs:
 Spawns package pickup locations and delivery destinations.
-- TargetArrow.cs
+- TargetArrow.cs:
 Points to the current active objective.
-- Game Manager.cs
+- Game Manager.cs:
 Handles:
 - Timer
 - Delivery score
@@ -95,11 +95,11 @@ Handles:
 - Restart system
 - Audio (music and sound effects)
 
-- ChunkData.cs
+- ChunkData.cs:
 handles data points.
-- MusicToggle.cs
+- MusicToggle.cs:
 plays background music.
-- PlayerTriggers.cs
+- PlayerTriggers.cs:
 pickup up when player has pickup and delivered packages.
 
 ---
